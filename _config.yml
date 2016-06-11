@@ -1,0 +1,28 @@
+name: Sinclair Stories
+favicon: null
+layout_spectrum: 0.6759314865339547
+typography_spectrum: 0.9363937464077026
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.22749098134227097
+  lightness: 0.6864507286809385
+  saturation: 0.7045825829263777
+  rhythmicContrast: 0.6686188702005893
+purpose: []
